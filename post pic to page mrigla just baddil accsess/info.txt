@@ -1,0 +1,11 @@
+offline_access
+
+SELECT page_id, type from page_admin WHERE uid=me()
+
+
+
+id mté3 law.nata9at = 184529821590793 
+
+
+
+SELECT aid FROM album WHERE owner =149601791733712 AND  type='wall'
